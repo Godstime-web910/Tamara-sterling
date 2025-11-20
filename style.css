@@ -184,7 +184,8 @@ button:hover {
 
 #One,
 #Second,
-#Third {
+#Third,
+#four {
   padding: 5%;
   width: 100%;
 }
@@ -194,6 +195,7 @@ button:hover {
   padding-left: 25px;
   padding-right: 25px;
 }
+
 
 .col-4 {
   flex-basis: 25%;
@@ -560,6 +562,11 @@ h3 {
   .Victory {
     display: none;
   }
+
+  
+#four {
+  display: none;
+}
 
   .row {
     flex-basis: 100%;
